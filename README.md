@@ -19,7 +19,6 @@ It displays book titles, authors, cover images, and publication years in a clean
 ✅ Clean, modern **UI built with React Hooks**
 
 ---
-
 ##  Tech Stack
 
 | Category | Tools |
